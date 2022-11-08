@@ -505,10 +505,7 @@ flex-grow: 0;
 
 }
 
-.depoimentos{
 
-
-}
 
 .two{
 
@@ -712,3 +709,238 @@ color: #061800;
 
 
 }
+
+
+.fac{
+
+position: absolute;
+width: 210.82px;
+height: 44.68px;
+left: 124px;
+top: 903.08px;
+
+
+}
+
+.goog{
+
+position: absolute;
+width: 154.65px;
+height: 55.68px;
+left: 465.27px;
+top: 897.32px;
+
+}
+
+.Paleon{
+
+    position: absolute;
+    width: 201.6px;
+    height: 31.62px;
+    left: 749.88px;
+    top: 908.85px;
+
+}
+.Linke{
+
+    position: absolute;
+    width: 162.07px;
+    height: 46.94px;
+    left: 1081.93px;
+    top: 901.64px;
+
+}
+
+.banner-cta{
+position: absolute;
+width: 1121px;
+height: 304px;
+left: 124px;
+top: 1065px;
+
+background: #1971C2;
+border-radius: 10px;
+}
+.conteudo-titullo{
+position: absolute;
+width: 497px;
+height: 104px;
+left: 100px;
+top: 100px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+
+color: #FFFFFF;
+}
+
+button{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+gap: 16px;
+
+position: absolute;
+width: 203px;
+height: 50px;
+left: 754px;
+top: 124px;
+
+background: #FFFFFF;
+border-radius: 40px;
+
+
+}
+
+.butto-text{
+width: 139px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+text-transform: uppercase;
+
+color: #1971C2;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.sobre-container{
+background: #F0F9FF;
+position: absolute;
+width: 1366px;
+height: 882px;
+left: 0px;
+top: 2982px;
+
+}
+.imgContat{
+    position: absolute;
+    width: 442px;
+    height: 383px;
+    left: 104px;
+    top: 3273px;
+    
+    background: url(image.png);
+    border-radius: 44px;   
+}
+
+.sobre{
+position: absolute;
+width: 87px;
+height: 21px;
+left: 670px;
+top: 3285px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 150%;
+
+color: #1971C2;
+
+}
+
+.sobre-bigText{
+position: absolute;
+width: 447px;
+height: 104px;
+left: 670px;
+top: 3315px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+
+color: #061800;
+
+}
+.samll-text-sobre{
+position: absolute;
+width: 573px;
+height: 168px;
+left: 670px;
+top: 3445px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+
+color: #384633;
+
+}
+.button-sobre{
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+gap: 16px;
+    
+position: absolute;
+width: 213px;
+height: 50px;
+left: 669px;
+top: 3645px;
+    
+background: #1971C2;
+border-radius: 40px;
+
+
+}
+
+.text-bu{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 18px;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.contats{
+    
+}
+.contas-text{
+   position: absolute;
+    width: 404px;
+    height: 104px;
+    left: 123px;
+    top: 3864px;
+    /*top: 3945px;*/
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    
+    color: #061800;
+       
+}
+
+
+
+
