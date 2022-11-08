@@ -12,9 +12,8 @@ body{
 
     background: rgba(249, 249, 249, 1);
    
-   
-
 }
+
 
 .section-header{
    
@@ -22,8 +21,6 @@ body{
     width: 1500px;
     height: 700px;
     left: 1366px;
-    
-  
     
 }
 
@@ -60,6 +57,7 @@ padding-inline: 10px;
 }
 
 button{
+    
     box-sizing: border-box;    
     display: flex;
     flex-direction: row;
@@ -111,7 +109,7 @@ color: #1971C2;
 
 }
 
-.corVermelha{
+.corAzul{
     color: rgba(25, 113, 194, 1);
  
 }
@@ -301,18 +299,17 @@ white-space: nowrap
 
 position:absolute;    
 
-
 background: #F9F9F9;
 
 
 }
 
-p{
+p{ 
 position: absolute;
 width: 76px;
 height: 21px;
 left: 646px;
-top: 263px;
+top: 270px;
 
 font-family: 'DM Sans';
 font-style: normal;
@@ -324,12 +321,12 @@ letter-spacing: 0.08em;
 color: #1971C2;
 
 }
-h3{
-    position: absolute;
+h3{ 
+position: absolute;
 width: 497px;
 height: 104px;
 left: 435px;
-top: 300px;
+top: 310px;
 
 font-family: 'DM Sans';
 font-style: normal;
@@ -505,5 +502,213 @@ color: #384633;
 flex: none;
 order: 2;
 flex-grow: 0;
+
+}
+
+.depoimentos{
+
+
+}
+
+.two{
+
+position: absolute;
+width: 1366px;
+height: 1222px;
+left: -1px;
+top: 1695px;
+
+
+background: #FFFFFF;
+
+}
+
+.depoimentoUM{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 32px;
+gap: 20px;
+
+position: absolute;
+width: 544px;
+height: 273px;
+left: 124px;
+top: 361px;
+
+
+background: #F0F9FF;
+border-radius: 4px;
+
+}
+
+.depoimentoDois{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 32px;
+    gap: 20px;
+    
+    position: absolute;
+    width: 544px;
+    height: 273px;
+    left: 700px;
+    top: 361px;
+    
+    background: #F0F9FF;
+    border-radius: 4px;
+
+}
+
+
+.depoimento-frase{
+position: absolute;
+width: 440px;
+height: 96px;
+left: 32px;
+top: 83px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+color: #495057;
+
+}
+
+.Tdepoim{ 
+    position: absolute;
+    width: 111px;
+    height: 21px;
+    left: 628px;
+    top: 160px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0.08em;
+    
+    color: #1971C2;
+    
+    }
+.TdepoimBIg{ 
+    position: absolute;
+    width: 559px;
+    height: 104px;
+    left: 404px;
+    top: 193px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 52px;
+    text-align: center;
+    
+    color: #061800;
+
+    }
+
+.depoVetorUM{
+
+    position: absolute;
+    width: 45px;
+    height: 31px;
+    left: 20px;
+    top: 20px;
+    
+    background: #F0F9FF;
+
+    }
+
+.depoVetorDOIS{
+
+    position: absolute;
+    width: 45px;
+    height: 31px;
+    left: 20px;
+    top: 20px;
+    background: #F0F9FF;
+
+}
+
+.foto{
+
+position: absolute;
+width: 42px;
+height: 42px;
+left: 7px;
+top: 115px;
+background: url(.png);
+border-radius: 1000px;
+
+}
+
+.cliente-name{
+
+    position: absolute;
+    width: 120px;
+    height: 28px;
+    left: 65px;
+    top: 122px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    color: #1971C2;
+
+}
+
+.dtos{
+position: absolute;
+width: 12px;
+height: 12px;
+left: 657px;
+top: 683px;
+
+background: #F0F9FF;
+}
+.dot{
+position: absolute;
+width: 12px;
+height: 12px;
+left: 677px;
+top: 683px;
+
+}
+.doti{
+position: absolute;
+width: 12px;
+height: 12px;
+left: 697px;
+top: 683px;
+
+}
+
+.Empresas-que-confiam{
+
+position: absolute;
+width: 350.49px;
+height: 44.68px;
+left: 508.75px;
+top: 795px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #061800;
+
 
 }
